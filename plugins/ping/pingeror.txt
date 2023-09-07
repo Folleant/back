@@ -1,0 +1,4 @@
+http://ping.blogs.yandex.ru/ping?sitemap=https://2.serialam.online/sitemap.xml
+http://api.moreover.com/ping?u=https://2.serialam.online/sitemap.xml
+http://www.submissions.ask.com/ping?sitemap=https://2.serialam.online/sitemap.xml
+http://search.yahooapis.com/SiteExplorerService/V1/updateNotification?appid=YahooDemo&url=https://2.serialam.online/sitemap.xml
